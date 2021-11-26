@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/githubprofilesearchproject/static/css/main.98244458.chunk.css",
+    "main.js": "/githubprofilesearchproject/static/js/main.312da06c.chunk.js",
+    "main.js.map": "/githubprofilesearchproject/static/js/main.312da06c.chunk.js.map",
+    "runtime-main.js": "/githubprofilesearchproject/static/js/runtime-main.dd6e4a52.js",
+    "runtime-main.js.map": "/githubprofilesearchproject/static/js/runtime-main.dd6e4a52.js.map",
+    "static/css/2.383c0125.chunk.css": "/githubprofilesearchproject/static/css/2.383c0125.chunk.css",
+    "static/js/2.c7da00d6.chunk.js": "/githubprofilesearchproject/static/js/2.c7da00d6.chunk.js",
+    "static/js/2.c7da00d6.chunk.js.map": "/githubprofilesearchproject/static/js/2.c7da00d6.chunk.js.map",
+    "index.html": "/githubprofilesearchproject/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/githubprofilesearchproject/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.98244458.chunk.css.map": "/githubprofilesearchproject/static/css/main.98244458.chunk.css.map",
+    "static/js/2.c7da00d6.chunk.js.LICENSE.txt": "/githubprofilesearchproject/static/js/2.c7da00d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6e4a52.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.c7da00d6.chunk.js",
+    "static/css/main.98244458.chunk.css",
+    "static/js/main.312da06c.chunk.js"
+  ]
+}
